@@ -1,0 +1,74 @@
+/* START */
+
+.item-start--titles h2 {
+    font-size: 4rem;
+}
+
+.item-start--titles h3 {
+    font-size: 3.5rem;
+}
+
+/* ABOUT */
+.abut-content--vision h1 {
+    font-size: 4rem;
+}
+
+.abut-content--vision p {
+    font-size: 3.5rem;
+}
+
+.vision-image {
+    background-image: url(../img/about/up_container/maguey-npal_GS.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+    width: 50%;
+    height: 100%;
+}
+
+.description {
+    font-size: 3rem;
+} 
+
+.tech-description {
+font-size: 3rem;
+}
+
+/* PRODUICTS */
+.products-title h2 {
+    font-size: 4rem;
+}
+
+.products-title h3 {
+    font-size: 3.5rem;
+}
+
+.products-description p {
+    font-size: 3rem;
+}
+
+/* FOOTER */
+
+.contact-list--info {
+    margin-top: 2rem;
+}
+
+.footer-location {
+    display: flex;
+}
+
+.footer-location .ver-mapa {
+    display: none;
+}
+
+.footer-location p {
+    font-size: 1.5rem;
+    padding-bottom: 1rem;
+    text-align: center;
+}
+
+.footer-location iframe {
+    display: block;
+    margin: 0 auto;
+}

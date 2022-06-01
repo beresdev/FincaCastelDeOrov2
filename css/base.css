@@ -1,0 +1,33 @@
+:root {
+    --brand-color: #ffd02b;
+    --red-color:#ff1616;
+}
+
+html {
+    font-size: 62.5%;
+    font-family: 'Amatic SC', cursive;
+    font-family: 'PT Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Special Elite', cursive;
+}
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+li {
+    list-style: none;
+    text-decoration: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+
+main {
+    z-index: -3;
+}

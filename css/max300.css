@@ -1,0 +1,34 @@
+.abut-content--vision p {
+    font-size: 1.3rem;
+}
+
+.about-container--down {
+    grid-template-rows: 2fr 3fr;
+}
+
+.tech-description {
+    margin-top:15%;
+    font-size: 1.3rem;
+}
+
+.products-description p {
+    font-size: 1.3rem;
+}
+
+.footer-container {
+    
+    place-items: center;
+}
+
+.footer-section h2 {
+    padding-left:1rem;
+    font-size: 1.3rem;
+}
+
+.footer-section p {
+    font-size: 1rem;
+}
+
+.footer-section p a {
+    font-size: 1rem;
+}
